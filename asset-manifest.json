@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/just/static/css/main.24fb5415.css",
+    "main.js": "/just/static/js/main.728ba3c4.js",
+    "static/media/image2.gif": "/just/static/media/image2.f0f22502e72a5eb8f293.gif",
+    "static/media/image3.gif": "/just/static/media/image3.13f31803ed3f302993bf.gif",
+    "static/media/kuromi.jpg": "/just/static/media/kuromi.3523951cb4749a3b8e46.jpg",
+    "index.html": "/just/index.html",
+    "static/media/icon_check_off.svg": "/just/static/media/icon_check_off.123d49c45255401f31f6.svg",
+    "static/media/icon_check_on.svg": "/just/static/media/icon_check_on.1269cbc67aca7cce360a.svg",
+    "static/media/icon_dot.svg": "/just/static/media/icon_dot.f1c4a62d9156b1631e23.svg",
+    "main.24fb5415.css.map": "/just/static/css/main.24fb5415.css.map",
+    "main.728ba3c4.js.map": "/just/static/js/main.728ba3c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24fb5415.css",
+    "static/js/main.728ba3c4.js"
+  ]
+}
